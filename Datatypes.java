@@ -7,6 +7,7 @@ public class Datatypes {
         short d ;
         char e;
         String f ;
+        boolean  g;
         
 
     }
