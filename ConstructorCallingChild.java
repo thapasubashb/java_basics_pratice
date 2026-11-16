@@ -3,7 +3,7 @@ public class ConstructorCallingChild extends ConstructorParentBeingCalled {
    int a ;
       ConstructorCallingChild(){
         
-        System.out.println("parent constructor also will be called due to default constructor in inheritance ");
+        System.out.println("parent constructor also will be called due to default constructor in inheritance  ");
       }
 
     public static void main(String[] args) {
