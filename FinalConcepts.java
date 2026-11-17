@@ -1,4 +1,4 @@
-public  final   class FinalConcepts {
+public final class FinalConcepts {
     
     final int age = 23;
 
