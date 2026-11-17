@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Array{
 
 
-     int arrays = 3;
+     int[] arrays ={ 2,1,3,4,9,5,8};
 
 
 
@@ -33,7 +33,7 @@ for(int i = 0 ; i<arr.length; i++){
 
     Array obj = new Array();
       
-    System.out.println(obj.arrays);
+    System.out.println( Arrays.toString(obj.arrays));
 
     
 
