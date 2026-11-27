@@ -1,5 +1,7 @@
-import java.util.Scanner;
 
+// package Function;
+
+import java.util.Scanner;
 
 public class Hello {
 
@@ -10,8 +12,6 @@ public class Hello {
             System.out.println(a);
         }
 
-        
-
     }
-    
+
 }

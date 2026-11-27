@@ -1,13 +1,15 @@
 import java.util.Arrays;
 
-public class Array{
-
-
-     int[] arrays ={ 2,1,3,4,9,5,8};
-
-
-
+public class Array {
+    //  int[] arrays ={ 2,1,3,4,9,5,8};
     public static void main(String[] args) {
+
+        Collection coll = new Collection();
+        coll.number = 2;
+        System.out.println(coll.number);
+        System.out.println("hi");
+
+
         int[] arr = {2,31,33,2,9,5,90,7};
 
        int largest = arr[0];
@@ -16,9 +18,6 @@ public class Array{
         if(largest < arr[i]){
             largest = arr[i];
          } 
-
-
-
          
          } 
 for(int i = 0 ; i<arr.length; i++){
@@ -28,11 +27,9 @@ for(int i = 0 ; i<arr.length; i++){
 }
     System.out.println(Arrays.toString(arr));
     System.out.println(largest);
-    System.out.println(sec_l);
-     
+    System.out.println(sec_l); 
 
-    Array obj = new Array();
-      
+    Array obj = new Array();    
     System.out.println( Arrays.toString(obj.arrays));
 
     

@@ -1,5 +1,6 @@
+// package encapulation;
 
-package Encapulation;
+// package Encapulation;
 
 
 import java.util.Scanner;
@@ -13,6 +14,12 @@ import java.util.*;
 
 public class Packages {
     public static void main(String[] args) {
+
+ 
+        Mainclass obj = new Mainclass();
+        System.out.println(obj.m);
+
+
         
         ArrayList<Integer> l = new ArrayList<>();
         l.add(88);
