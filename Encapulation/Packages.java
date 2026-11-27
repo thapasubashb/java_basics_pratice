@@ -13,11 +13,13 @@ import java.util.*;
 
 public class Packages {
     public static void main(String[] args) {
-
-        ArrayList arr = new ArrayList<>();
-        List      list = new List<E>() {
-            
-        };
+        
+        ArrayList<Integer> l = new ArrayList<>();
+        l.add(88);
+        System.out.println(l);
+        List<Integer> arr = new ArrayList<>();
+        arr.add(3);
+        System.out.println(arr);
         Scanner sc = new Scanner(System.in);
        
         System.out.println("enter the deigit");
