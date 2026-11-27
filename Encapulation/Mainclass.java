@@ -1,6 +1,5 @@
-// package encapulation;
 
-// package Encapulation;
+package Encapulation;
 
 public class Mainclass{
 

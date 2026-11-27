@@ -1,8 +1,4 @@
-// package encapulation;
-
-// package Encapulation;
-
-
+package Encapulation;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;

@@ -29,11 +29,6 @@ for(int i = 0 ; i<arr.length; i++){
     System.out.println(largest);
     System.out.println(sec_l); 
 
-    Array obj = new Array();    
-    System.out.println( Arrays.toString(obj.arrays));
-
-    
-
 
       }
     }
